@@ -1,0 +1,14 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Build files
+target/
+build/
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+*.log
